@@ -2,7 +2,7 @@
   "name": "mnemonic-missing-word-recovery",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/metaroonlabs/simple-node-js-api-ts.git",
+  "repository": "https://github.com/nawodyaishan/mnemonic-missing-word-recovery/tree/main",
   "author": "Nawodya Ishan <nawodyain@gmail.com>",
   "license": "MIT",
   "dependencies": {
